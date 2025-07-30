@@ -60,64 +60,64 @@ HOW TO SOLVE A PROBLEM?
 Q. Find the Sum of 2 Numbers , a & b.
 
     Algorithm                                                           Flowchart                                           Pseudo-Code
-----------------                                                     ------------------                                 -------------------                
-1. start                                                     cant represent in vs code currently                            1. input a & b
-2. input a & b                                                                                                              2. sum = a + b
-3. sum = a + b                                                                                                              3. print sum
-4. print sum                                                                                                                4. exit
-5. exit/end
+----------------                                                     ------------------                                                
+    1. start                                                     cant represent in vs code currently                            1. input a & b
+    2. input a & b                                                                                                              2. sum = a + b
+    3. sum = a + b                                                                                                              3. print sum
+    4. print sum                                                                                                                4. exit
+    5. exit/end
 
 
 # QUESTIONS
 
-1. Area of Square                   Pseudo-code 
-                                --------------------
-                                    1. input a 
-                                    2. Area = a * a 
-                                    3. print Area
-                                    4. exit
+        1. Area of Square                   Pseudo-code 
+                                        --------------------
+                                            1. input a 
+                                            2. Area = a * a 
+                                            3. print Area
+                                            4. exit
 
-2. Min of 2 number                  Pseudo-Code
-                                ---------------------
-                                    1. input a & b
-                                    2. is a < b 
-                                            print a is min
-                                    3. else 
-                                            print b is min
-                                    4. exit
+        2. Min of 2 number                  Pseudo-Code
+                                        ---------------------
+                                            1. input a & b
+                                            2. is a < b 
+                                                    print a is min
+                                            3. else 
+                                                    print b is min
+                                            4. exit
 
 
-3. Is number is odd or even          Pseudo-Code
-                                ----------------------
-                                    1. input a 
-                                    2. if a % 2 == 0
-                                            print even
-                                    3. else 
-                                            print odd
-                                    4. Exit
+        3. Is number is odd or even          Pseudo-Code
+                                        ----------------------
+                                            1. input a 
+                                            2. if a % 2 == 0
+                                                    print even
+                                            3. else 
+                                                    print odd
+                                            4. Exit
 
-4. Sum of no from 1 to N             Pseudo-Code
-                                -----------------------
-                                    1. input N
-                                    2. count = 1 , sum = 0
-                                    3. while count <= N 
-                                                sum = sum + count
-                                                count = count+ 1 ; // count += 1
-                                    4. print sum
-                                    5. Exit
+        4. Sum of no from 1 to N             Pseudo-Code
+                                        -----------------------
+                                            1. input N
+                                            2. count = 1 , sum = 0
+                                            3. while count <= N 
+                                                        sum = sum + count
+                                                        count = count+ 1 ; // count += 1
+                                            4. print sum
+                                            5. Exit
 
-5. Is number is prime or not        Pseudo-Code
-                                ------------------------
-                                    1. input a 
-                                    2. i = 2 
-                                    3. while i<=(a-1)
-                                               if a%i == 0
-                                                    print a is not prime
-                                                    Exit
-                                                else
-                                                    i +=1
-                                    4. print a is prime 
-                                    5. Exit
+        5. Is number is prime or not        Pseudo-Code
+                                        ------------------------
+                                            1. input a 
+                                            2. i = 2 
+                                            3. while i<=(a-1)
+                                                    if a%i == 0
+                                                            print a is not prime
+                                                            Exit
+                                                        else
+                                                            i +=1
+                                            4. print a is prime 
+                                            5. Exit
 
 
 # HOMEWORK
