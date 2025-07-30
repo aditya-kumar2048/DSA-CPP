@@ -6,26 +6,26 @@ Day 1 (29/07/25)
 
 Topic: Flowchart & pseudocode + Installation
 
-Data Structure
-|
-|---->PRIMITIVE
-|
-|
-|---->NON - PRIMITIVE
-            |
-            |
-    |-------------------------------------------------|
- LINEAR                                          NON-LINEAR
-    |----> STATIC ---> ARRAYS                       / | \
-    |                                              /  |  \
-    |----> DYNAMIC ----|                          /   |   \  
-            / |  \     |--->QUEUE                /    |    \
-           /  |   \                             /     |     \
-          /   |    \                         TREE    GRAPH  TABLE/SET
-         /    |     \
-        / LINKED LIST\
-    VECTOR            \
-                    STACK
+                Data Structure
+                |
+                |---->PRIMITIVE
+                |
+                |
+                |---->NON - PRIMITIVE
+                            |
+                            |
+                    |-------------------------------------------------|
+                LINEAR                                          NON-LINEAR
+                    |----> STATIC ---> ARRAYS                       / | \
+                    |                                              /  |  \
+                    |----> DYNAMIC ----|                          /   |   \  
+                            / |  \     |--->QUEUE                /    |    \
+                           /  |   \                             /     |     \
+                          /   |    \                         TREE    GRAPH  TABLE/SET
+                         /    |     \
+                        / LINKED LIST\
+                    VECTOR            \
+                                    STACK
 
 
 HOW TO SOLVE A PROBLEM?
