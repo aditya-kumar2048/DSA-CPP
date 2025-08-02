@@ -1,10 +1,10 @@
-All Power is Within YOU ; YOU can do ANYTHING and EVERYTHING
+# All Power is Within YOU ; YOU can do ANYTHING and EVERYTHING
 
-Goal : To Master Data Structure and Algorithm using c++
+# Goal : To Master Data Structure and Algorithm using c++
 
-Day 3(31/07/25)
+# Day 3(31/07/25)
 
-Topic : CONDITIONAL STATEMENT AND LOOPS
+# Topic : CONDITIONAL STATEMENT AND LOOPS
 
 # Conditional Statements 
  
