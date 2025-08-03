@@ -5,7 +5,7 @@
 `Day - 6` (03/08/25)
 ___
 
-`Topic:` Binary Number System
+`Topic` : Binary Number System
 ___
 *What are Binary Number System?*
 --- > We have only see a number system in maths i.e., Decimal number system and its range is from 0-9 = 10 is also known as dec that's why we call it as decimal no system. computer only knows binary no . binary no are only 0 or 1; it is also known as base 2 element.
